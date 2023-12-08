@@ -41,6 +41,6 @@ Follow these steps to build and run the News App on your Android device or emula
 The News App integrates with an open standards API for fetching news data. The API provides a reliable source of information, ensuring the app stays current.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the License - see the [LICENSE](LICENSE) file for details or just remember use this as you need.
 
 Feel free to customize the placeholders and add specific details as needed.
