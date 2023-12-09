@@ -41,6 +41,9 @@ Follow these steps to build and run the News App on your Android device or emula
 ## API Integration
 The News App integrates with an open standards API for fetching news data. The API provides a reliable source of information, ensuring the app stays current.
 
+##Deployment
+This is online deployment of the app please do not overuse the deployment it is limited to 30 minutes a month so here is the [link](https://appetize.io/app/ln3d6nckcx26zcn2alhyvnhqxe)
+
 ## License
 This project is licensed under the License - see the [LICENSE](LICENSE) file for details or just remember use this as you need.
 
