@@ -12,6 +12,7 @@ A Basic android news app crafted in Java, leveraging open standards API calls fo
 - **Java**: Core programming language for Android development.
 - **Android Studio**: The official IDE for Android app development.
 - **XML**: Used for designing the app's user interface.
+- **RESTFUL API**: Used for integrating newsorg API
 
 ## Dependencies:
 - AndroidX libraries for enhanced functionality.
