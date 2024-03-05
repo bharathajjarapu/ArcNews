@@ -1,4 +1,4 @@
-# ArcNew
+# News App
 
 ## Overview
 - A Basic android news app crafted in Java, using open standards API calls for seamless news retrieval. Developed in Android Studio with XML for basic user interface.
